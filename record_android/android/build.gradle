@@ -30,7 +30,7 @@ apply plugin: 'org.jetbrains.kotlin.android'
 android {
     namespace 'com.llfbandit.record'
     
-    compileSdk 34
+    compileSdk 25
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
